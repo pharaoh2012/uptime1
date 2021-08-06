@@ -1,7 +1,7 @@
 url: http://www.csaqjc.com:807/Login/Index?ReturnUrl=%2F
-status: down
-code: 500
-responseTime: 1077
-lastUpdated: 2021-08-06T08:38:23.321Z
+status: up
+code: 200
+responseTime: 653
+lastUpdated: 2021-08-06T08:46:59.729Z
 startTime: Tue Dec 08 2020 09:05:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
